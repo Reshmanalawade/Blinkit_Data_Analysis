@@ -32,5 +32,5 @@ The dashboard focuses on the following primary KPIs:
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
 
 ##Dashboard:
-<img src="./Blinkit .jpg" width="1000" height="600"/>&nbsp;
+<img src="./Dashboard.jpg" width="1000" height="600"/>&nbsp;
 
