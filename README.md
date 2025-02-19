@@ -30,5 +30,5 @@ Presents dashboard for analyzing Blinkit's sales performance, customer satisfact
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
 
 ## Dashboard:
-<img src="./Dashboard.jpg" width="1000" height="600"/>&nbsp;
+<img src="./Dashboard.jpg" width="1000" height="600"/>&nbsp; 
 
