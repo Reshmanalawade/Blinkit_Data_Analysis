@@ -1,7 +1,7 @@
 # Blinkit_Data_Analysis
-<img src="./Blinkit .jpg" width="1000" height="600"/>&nbsp;
+<img src="./Blinkit .jpg" width="800" height="600"/>&nbsp;
 
-## Project Overview
+##  Overview
 
 This project presents dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 
