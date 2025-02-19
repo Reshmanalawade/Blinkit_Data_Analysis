@@ -1,6 +1,6 @@
 # Blinkit_Data_Analysis
 ## Dashboard :
-<img src="./Blinkit .jpg" width="3000" height="600"/>&nbsp;
+<img src="./Blinkit .jpg" width="2000" height="600"/>&nbsp;
 
 ## Project Overview
 
