@@ -1,5 +1,6 @@
 # Blinkit_Data_Analysis
-
+## Dashboard :
+<img src="./coffee_sales_dash.png" width="3000" height="600"/>&nbsp;
 
 ## Project Overview
 
